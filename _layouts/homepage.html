@@ -28,10 +28,8 @@
     {% endif %}
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
     {% else %}
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
-    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
   </head>
@@ -81,6 +79,12 @@
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
           <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+
+        {% if site.medium %}
+        <a style="margin: 0 5px 0 0" href="{{ site.medium }}">
+          <i class="fab fa-medium"></i>
         </a>
         {% endif %}
 
