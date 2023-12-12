@@ -2,16 +2,38 @@
 layout: homepage
 ---
 
-## About Me
+## Welcome! 💻
 
-I am currently working as a **Research Associate** at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), where I have the privilege of working under the supervision of remarkable advisors: [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Agha Ali Raza](https://aghaaliraza.com/). I completed my Bachelor of Science in Computer Science from LUMS, graduating in 2023.
+> "All problems in computer science can be solved by another level of indirection; but that usually will create another problem." — David Wheeler
 
-I am broadly interested in Distributed Systems and Applied Machine Learning. My current research centers on Multi-access Edge Computing, Federated Learning, and LLMs for Personalized Educational Assistance.
+I am a **Research Associate** in the **Computer Scicence** department at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), where I have the privilege of working under the supervision of remarkable advisors: [Dr. Zafar A. Qazi](https://web.lums.edu.pk/~zafar/), [Dr. Ihsan A. Qazi](https://www.ihsanqazi.com/), and [Dr. Agha A. Raza](https://aghaaliraza.com/). 
+
+My academic roots are also deeply embedded in LUMS, where I earned my Bachelor of Science in Computer Science, graduating in 2023.
 
 ## Research Interests
 
 - Distributed Systems
+- Computer Networks
+- Systems for AI
 - Applied Machine Learning
+
+## Research Experience
+
+- **Full-time Research Associate, LUMS** (Jul. 2023 - Present)
+    - *Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza*
+    - Working on intelligent educational technologies.
+
+- **Undergraduate Research Assistant, LUMS** (Jun. 2022 - Aug. 2022)
+    - *Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza*
+    - Worked on enhancing robustness in federated learning environments.
+
+- **Undergraduate Research Assistant, LUMS** (Jun. 2021 - Dec. 2021)
+    - *Advisors: Dr. Zafar A. Qazi*
+    - Worked on enabling stateful mobile edge applications over 5G.
+
+- **Research Intern at [CSaLT](https://www.c-salt.org/), LUMS** (Jan. 2022 - Dec. 2022)
+    - *Advisors: Dr. Agha A. Raza*
+    - Worked on developing an Image-to-Speech System for Urdu Language.
 
 ## Awards
 
@@ -32,7 +54,7 @@ I am broadly interested in Distributed Systems and Applied Machine Learning. My 
 
 - [The Last of Us: Part II](https://www.imdb.com/title/tt6298000/) - A Narrative Masterpiece in Gaming
 <p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/tlou2.webp" height=350>
+<img title="a title" alt="Alt text" src="/assets/img/tlou2.jpg" width=500>
 </p>
 
 - Generated cover art for [Breaking Bad](https://www.imdb.com/title/tt0903747/) using DALL·E 3
