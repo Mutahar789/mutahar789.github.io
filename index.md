@@ -10,7 +10,7 @@ I am a **Research Associate** in the **Computer Science** department at [Lahore 
 
 My academic roots are also deeply embedded in LUMS, where I earned my Bachelor of Science in Computer Science, graduating in 2023.
 
-I am broadly interested in **distributed systems** and **networking**. My current research centers on 5G and mobile edge computing, federated learning (privacy-preserving distributed machine learning), and scalable software for LLM-powered applications.
+I am broadly interested in researching **distributed systems** and **networking**. My current research centers on 5G and mobile edge computing, federated learning (privacy-preserving distributed machine learning), and scalable software for LLM-powered applications.
 
 ## Research Interests
 
