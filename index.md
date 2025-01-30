@@ -19,16 +19,16 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Research Experience
 
-- **Graduate Student Researcher** (Sep. 2024 - Present)
-    Security and Privacy of Emerging Computing Technologies (SPECT) Lab, UCI
+- **Graduate Student Researcher** (Sep. 2024 - Present) \
+    Security and Privacy of Emerging Computing Technologies (SPECT) Lab, UCI \
     Advisor: Prof. Habiba Farrukh
 
-- **Full-time Research Associate** (Jul. 2023 - Aug. 2024)
-    Internet and Data Systems Lab (IDSL), LUMS
+- **Full-time Research Associate** (Jul. 2023 - Aug. 2024) \
+    Internet and Data Systems Lab (IDSL), LUMS \
     Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza
 
-- **Undergraduate Research Assistant** (Jun. 2022 - Aug. 2022)
-    Networks and Systems Group (NSG), LUMS
+- **Undergraduate Research Assistant** (Jun. 2022 - Aug. 2022) \
+    Networks and Systems Group (NSG), LUMS \
     Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi
 
 ## Awards
@@ -39,9 +39,9 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Publications
 
-- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927)
-    Mukhtiar Ahmad, Faaiq Bilal, *Mutahar Ali*, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi
-    *Preprint on arXiv*
+- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927) \
+    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi \
+    Preprint on **arXiv**
 
 ## Teaching
 
