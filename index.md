@@ -10,8 +10,6 @@ I am a first-year PhD student student at [**University of California, Irvine**](
 
 - Security and Privacy
 - Systems and Networking
-- Applied NLP and LLMs
-- AR/VR
 
 ## Research Experience
 
