@@ -2,40 +2,34 @@
 layout: homepage
 ---
 
-## Welcome! 💻
+## About Me 💻
 
 > "All problems in computer science can be solved by another level of indirection; but that usually will create another problem." — David Wheeler
 
-I am a **Research Associate** in the **Computer Science** department at [Lahore University of Management Sciences](https://lums.edu.pk/) (**LUMS**), where I have the privilege of working under the supervision of remarkable advisors: [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/), and [Dr. Agha Ali Raza](https://aghaaliraza.com/). 
+I am a first-year PhD student student at [University of California, Irvine](https://ics.uci.edu/) (**UCI**) advised by [Prof. Habiba Farrukh](https://habiba-farrukh.github.io/). 
 
-My academic roots are also deeply embedded in LUMS, where I earned my Bachelor of Science in Computer Science, graduating in 2023.
-
-I am broadly interested in researching **distributed systems** and **networking**. My current research centers on 5G and mobile edge computing, federated learning (privacy-preserving distributed machine learning), and scalable software for LLM-powered applications.
+Before joining UCI, I was a Research Associate in the Computer Science department at [Lahore University of Management Sciences](https://sbasse.lums.edu.pk/) (**LUMS**), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
 
 ## Research Interests
 
-- Distributed Systems
-- Computer Networking
-- Privacy and Security
-- ML for Systems Optimizations
+- Security and Privacy
+- Systems and Networking
+- Applied NLP and LLMs
+- AR/VR
 
 ## Research Experience
 
-- **Full-time Research Associate, LUMS** (Jul. 2023 - Present)
-    - *Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza*
-    - Working on developing scalable software for LLM-integrated applications.
+- **Graduate Student Researcher** (Sep. 2024 - Present)
+    Security and Privacy of Emerging Computing Technologies (SPECT) Lab, UCI
+    Advisor: Prof. Habiba Farrukh
 
-- **Undergraduate Research Assistant, LUMS** (Jun. 2022 - Aug. 2022)
-    - *Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza*
-    - Worked on enhancing robustness in federated learning environments.
+- **Full-time Research Associate** (Jul. 2023 - Aug. 2024)
+    Internet and Data Systems Lab (IDSL), LUMS
+    Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza
 
-- **Undergraduate Research Assistant, LUMS** (Jun. 2021 - Dec. 2021)
-    - *Advisors: Dr. Zafar A. Qazi*
-    - Worked on enabling real-time mobility support for edge applications in 5G.
-
-- **Research Intern at [CSaLT](https://www.c-salt.org/), LUMS** (Jan. 2022 - Dec. 2022)
-    - *Advisors: Dr. Agha A. Raza*
-    - Worked on developing an Image-to-Speech System for Urdu Language.
+- **Undergraduate Research Assistant** (Jun. 2022 - Aug. 2022)
+    Networks and Systems Group (NSG), LUMS
+    Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi
 
 ## Awards
 
@@ -43,23 +37,13 @@ I am broadly interested in researching **distributed systems** and **networking*
 - Students as Co-Researchers Grant (2022)
 - Dean’s Honor List (2019-2022)
 
+## Publications
+
+- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927)
+    Mukhtiar Ahmad, Faaiq Bilal, *Mutahar Ali*, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi
+    *Preprint on arXiv*
+
 ## Teaching
 
 - Undergraduate Teaching Assistant, LUMS
     - CS 382: Network-Centric Computing (Spring 2023, Spring 2022)
-
-## Misc
-
-- A [paper](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf) I really enjoyed reading
-
-- My favourite [song](https://www.youtube.com/watch?v=tAGnKpE4NCI&ab_channel=Metallica)
-
-- [The Last of Us: Part II](https://www.imdb.com/title/tt6298000/) - A Narrative Masterpiece in Gaming
-<p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/tlou2.jpg" width=500>
-</p>
-
-- Generated cover art for [Breaking Bad](https://www.imdb.com/title/tt0903747/) using DALL·E 3
-<p align="center">
-<img title="a title" alt="Alt text" src="/assets/img/breakingbad.png" width=500>
-</p>
