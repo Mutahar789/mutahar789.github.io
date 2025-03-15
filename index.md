@@ -25,7 +25,7 @@ I am a first-year PhD student student at [**University of California, Irvine**](
     Networks and Systems Group (NSG), LUMS \
     Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi
 
-## Publications
+## Pre-prints
 
 - [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927) \
     Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi \
