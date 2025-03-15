@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student student at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
+I am a first-year PhD student in the Computer science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
 
 ## Research Interests
 
