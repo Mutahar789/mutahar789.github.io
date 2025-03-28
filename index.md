@@ -25,6 +25,12 @@ I am a first-year PhD student in the Computer science department at [**Universit
     Networks and Systems Group (NSG), LUMS \
     Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi
 
+## Publications
+
+- **Understanding Users’ S&P Attitudes Towards Conversational AI Platforms** \
+    **Mutahar Ali**, Arjun Arunasalam, Habiba Farrukh \
+    IEEE Security and Privacy (S&P), 2025 (To Appear)
+
 ## Pre-prints
 
 - [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927) \
@@ -32,6 +38,9 @@ I am a first-year PhD student in the Computer science department at [**Universit
     Preprint on **arXiv**
 
 ## Teaching
+
+- Graduate Teaching Assistant
+    - CS-190: Security & Privacy (Spring 2025)
 
 - Undergraduate Teaching Assistant, LUMS
     - CS 382: Network-Centric Computing (Spring 2023, Spring 2022)
