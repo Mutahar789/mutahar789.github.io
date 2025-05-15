@@ -27,9 +27,9 @@ I am a first-year PhD student in the Computer science department at [**Universit
 
 ## Publications
 
-- **Understanding Users’ S&P Attitudes Towards Conversational AI Platforms** \
+- [**Understanding Users’ S&P Attitudes Towards Conversational AI Platforms**](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00241) \
     **Mutahar Ali**, Arjun Arunasalam, Habiba Farrukh \
-    IEEE Security and Privacy (S&P), 2025 **(To Appear)**
+    IEEE Security and Privacy (S&P), 2025
 
 ## Pre-prints
 
