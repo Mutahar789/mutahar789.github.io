@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Computer science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
+I am a second-year PhD student in the Computer science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
 
 ## Research Interests
 
@@ -19,31 +19,41 @@ I am a first-year PhD student in the Computer science department at [**Universit
 
 - **Full-time Research Associate** (Jul. 2023 - Aug. 2024) \
     Internet and Data Systems Lab (IDSL), LUMS \
-    Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi, Dr. Agha A. Raza
+    Advisors: Prof. Ihsan A. Qazi, Prof. Zafar A. Qazi, Prof. Agha A. Raza
 
 - **Undergraduate Research Assistant** (Jun. 2022 - Aug. 2022) \
     Networks and Systems Group (NSG), LUMS \
-    Advisors: Dr. Ihsan A. Qazi, Dr. Zafar A. Qazi
+    Advisors: Prof. Ihsan A. Qazi, Prof. Zafar A. Qazi
 
 ## Publications
 
-- [**Understanding Users’ S&P Attitudes Towards Conversational AI Platforms**](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00241) \
+- [**Understanding Users’ S&P Attitudes Towards Conversational AI Platforms**](https://mutahar789.github.io/assets/files/conv-ai-sp-user-perceptions.pdf) \
     **Mutahar Ali**, Arjun Arunasalam, Habiba Farrukh \
     IEEE Security and Privacy (S&P), 2025
 
 ## Pre-prints
 
 - [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927) \
-    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi \
-    Preprint on **arXiv**
+    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi 
 
-## Teaching
+## Posters
 
-- Graduate Teaching Assistant
+- [**PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality**](https://mutahar789.github.io/assets/files/peekxr.pdf)\
+    Chuyang Peng, **Mutahar Ali**, Habiba Farrukh \
+    ACM MobiSys, 2025 \
+    <span style="color: red;">Best Poster Runner Up</span>
+
+## Teaching Experience
+
+- **Graduate Teaching Assistant**
     - CS-190: Security & Privacy (Spring 2025)
 
-- Undergraduate Teaching Assistant, LUMS
+- **Undergraduate Teaching Assistant, LUMS**
     - CS 382: Network-Centric Computing (Spring 2023, Spring 2022)
+
+## Service
+
+- Student Volunteer, ACM MobiSys 2025
 
 ## Awards
 

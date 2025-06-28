@@ -10,7 +10,7 @@
   color:#043361!important;
   border-radius:100%;
   text-align:center;
-  font-size:1.15rem;
+  font-size:1.6rem;
   line-height:2.5rem;
   margin-right:1rem}
 
@@ -82,7 +82,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 18px;
     font-family: "Ubuntu Mono";
 }
 
@@ -137,7 +137,7 @@ papertitle {
   }
 
   .image {
-    border-radius: 0.35em;
+    border-radius: 0.5em;
     border: 0;
     display: inline-block;
     position: relative;
@@ -169,11 +169,16 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+        width: 75%;
+        padding: 5px;
+      }
+
+      @media screen and (min-width: 960px) {
+        .image.avatar img {
+          border: 1px solid #ddd;
+          padding: 3px;
+          box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+        }
       }
 
     #header .image.avatar {
