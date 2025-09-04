@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year PhD student in the Computer science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
+I am a second-year PhD student in the Computer Science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
 
 ## Research Interests
 
@@ -47,6 +47,7 @@ I am a second-year PhD student in the Computer science department at [**Universi
 
 - **Graduate Teaching Assistant**
     - CS-190: Security & Privacy (Spring 2025)
+    - CS-141: Concepts in Programming Languages (Fall 2025)
 
 - **Undergraduate Teaching Assistant, LUMS**
     - CS 382: Network-Centric Computing (Spring 2023, Spring 2022)
