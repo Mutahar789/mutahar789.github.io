@@ -54,6 +54,7 @@ I am a second-year PhD student in the Computer Science department at [**Universi
 
 ## Service
 
+- Artifact Evaluation Committee, IEEE Security and Privacy (S&P) 2026
 - Student Volunteer, ACM MobiSys 2025
 
 ## Awards
