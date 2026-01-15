@@ -31,10 +31,9 @@ I am a second-year PhD student in the Computer Science department at [**Universi
     **Mutahar Ali**, Arjun Arunasalam, Habiba Farrukh \
     IEEE Security and Privacy (S&P), 2025
 
-## Pre-prints
-
-- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://arxiv.org/abs/2412.10927) \
-    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi 
+- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://mutahar789.github.io/assets/files/edgewarp.pdf) \
+    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi \
+    ACM/IEEE Symposium on Edge Computing (SEC), 2025
 
 ## Posters
 
