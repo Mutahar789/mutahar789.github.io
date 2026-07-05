@@ -4,53 +4,46 @@ layout: homepage
 
 ## About Me
 
-I am a third-year PhD student in the Computer Science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI) advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
+I am a third-year PhD student in the Computer Science department at [**University of California, Irvine**](https://ics.uci.edu/) (UCI), advised by [**Prof. Habiba Farrukh**](https://habiba-farrukh.github.io/). I am broadly interested in security and privacy research. My current research centers on security of immersive systems, supply-chain security in machine learning, and user perceptions and human factors in security and privacy.
 
-## Research Interests
+Before joining UCI, I was a Research Associate in the Computer Science department at [**Lahore University of Management Sciences**](https://sbasse.lums.edu.pk/) (LUMS), where I also earned my Bachelor of Science in Computer Science, graduating in 2023.
 
-- Security and Privacy
-- Systems and Networking
-- Machine Learning 
+## News
 
-## Research Experience
-
-- **Graduate Student Researcher** (Sep. 2024 - Present) \
-    Security and Privacy of Emerging Computing Technologies (SPECT) Lab, UCI \
-    Advisor: Prof. Habiba Farrukh
-
-- **Full-time Research Associate** (Jul. 2023 - Aug. 2024) \
-    Internet and Data Systems Lab (IDSL), LUMS \
-    Advisors: Prof. Ihsan A. Qazi, Prof. Zafar A. Qazi, Prof. Agha A. Raza
-
-- **Undergraduate Research Assistant** (Jun. 2022 - Aug. 2022) \
-    Networks and Systems Group (NSG), LUMS \
-    Advisors: Prof. Ihsan A. Qazi, Prof. Zafar A. Qazi
+<ul class="news">
+  <li><span class="date">Jun 2026</span><span>Our work on security of multi-user mixed reality was accepted to <strong>USENIX Security 2026</strong>! 🎉</span></li>
+  <li><span class="date">Apr 2026</span><span>Serving on the <strong>Artifact Evaluation Committee</strong> for IEEE S&amp;P 2026 and ACM CCS 2026.</span></li>
+  <li><span class="date">Jun 2025</span><span>Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.</span></li>
+  <li><span class="date">May 2025</span><span>Presented our work on privacy attitudes toward conversational AI at <strong>IEEE S&amp;P 2025</strong>.</span></li>
+  <li><span class="date">Apr 2025</span><span>Our work on instant mobility for stateful applications in 5G was accepted to <strong>ACM/IEEE SEC 2025</strong>.</span></li>
+  <li><span class="date">Sep 2024</span><span>Started my PhD at <strong>UC Irvine</strong> with the SPECT Lab.</span></li>
+</ul>
 
 ## Publications
 
-- **Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality** \
-    **Mutahar Ali**, Habiba Farrukh \
-    USENIX Security Symposium, 2026 (To Appear)
-
-- [**Understanding Users’ S&P Attitudes Towards Conversational AI Platforms**](https://mutahar789.github.io/assets/files/conv-ai-sp-user-perceptions.pdf) \
-    **Mutahar Ali**, Arjun Arunasalam, Habiba Farrukh \
-    IEEE Security and Privacy (S&P), 2025
-
-- [**Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications**](https://mutahar789.github.io/assets/files/edgewarp.pdf) \
-    Mukhtiar Ahmad, Faaiq Bilal, **Mutahar Ali**, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi \
-    ACM/IEEE Symposium on Edge Computing (SEC), 2025
+- <span class="pubtitle">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</span> \
+    <span class="authors"><strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
+    <span class="venue">USENIX Security Symposium, 2026</span> <span class="status">To Appear</span>
+- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/conv-ai-sp-user-perceptions.pdf">Understanding Users’ S&amp;P Attitudes Towards Conversational AI Platforms</a></span> \
+    <span class="authors"><strong>Mutahar Ali</strong>, Arjun Arunasalam, Habiba Farrukh</span> \
+    <span class="venue">IEEE Symposium on Security and Privacy (S&amp;P), 2025</span>
+- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/edgewarp.pdf">Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications</a></span> \
+    <span class="authors">Mukhtiar Ahmad, Faaiq Bilal, <strong>Mutahar Ali</strong>, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi</span> \
+    <span class="venue">ACM/IEEE Symposium on Edge Computing (SEC), 2025</span>
+{:.pub-list}
 
 ## Pre-prints
 
-- [**Follow My Eyes: Backdoor Attacks on VLM-based Scanpath Prediction**](https://mutahar789.github.io/assets/files/backdoor_scanpath.pdf)\
-    Diana Romero<sup>*</sup>, **Mutahar Ali**<sup>*</sup>, Momin Khan<sup>*</sup>, Habiba Farrukh, Fatima Anwar, Salma Elmalaki [<sup>*</sup> Equal Contribution]
+- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/backdoor_scanpath.pdf">Follow My Eyes: Backdoor Attacks on Goal-Directed Scanpath Prediction</a></span> \
+    <span class="authors">Diana Romero<sup class="eq">*</sup>, <strong>Mutahar Ali</strong><sup class="eq">*</sup>, Momin Khan<sup class="eq">*</sup>, Habiba Farrukh, Fatima Anwar, Salma Elmalaki <span class="coauth">[<sup class="eq">*</sup>Equal Contribution]</span></span>
+{:.pub-list}
 
 ## Posters
 
-- [**PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality**](https://mutahar789.github.io/assets/files/peekxr.pdf)\
-    Chuyang Peng, **Mutahar Ali**, Habiba Farrukh \
-    ACM MobiSys, 2025 \
-    <span style="color: red;">Best Poster Runner Up</span>
+- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/peekxr.pdf">PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality</a></span> \
+    <span class="authors">Chuyang Peng, <strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
+    <span class="venue">ACM MobiSys, 2025</span> <span class="badge badge-award"><i class="fas fa-medal"></i>Best Poster Runner-Up</span>
+{:.pub-list}
 
 ## Teaching Experience
 

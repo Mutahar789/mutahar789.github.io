@@ -20,7 +20,7 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 auto_dark_mode: false
