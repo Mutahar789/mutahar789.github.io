@@ -24,23 +24,23 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 - <span class="pubtitle">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</span> \
     <span class="authors"><strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
     <span class="venue">USENIX Security Symposium, 2026</span> <span class="status">To Appear</span>
-- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/conv-ai-sp-user-perceptions.pdf">Understanding Users’ S&amp;P Attitudes Towards Conversational AI Platforms</a></span> \
+- <span class="pubtitle"><a href="assets/files/conv-ai-sp-user-perceptions.pdf">Understanding Users’ S&amp;P Attitudes Towards Conversational AI Platforms</a></span> \
     <span class="authors"><strong>Mutahar Ali</strong>, Arjun Arunasalam, Habiba Farrukh</span> \
     <span class="venue">IEEE Symposium on Security and Privacy (S&amp;P), 2025</span>
-- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/edgewarp.pdf">Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications</a></span> \
+- <span class="pubtitle"><a href="assets/files/edgewarp.pdf">Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications</a></span> \
     <span class="authors">Mukhtiar Ahmad, Faaiq Bilal, <strong>Mutahar Ali</strong>, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi</span> \
     <span class="venue">ACM/IEEE Symposium on Edge Computing (SEC), 2025</span>
 {:.pub-list}
 
 ## Pre-prints
 
-- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/backdoor_scanpath.pdf">Follow My Eyes: Backdoor Attacks on Goal-Directed Scanpath Prediction</a></span> \
+- <span class="pubtitle"><a href="assets/files/backdoor_scanpath.pdf">Follow My Eyes: Backdoor Attacks on Goal-Directed Scanpath Prediction</a></span> \
     <span class="authors">Diana Romero<sup class="eq">*</sup>, <strong>Mutahar Ali</strong><sup class="eq">*</sup>, Momin Khan<sup class="eq">*</sup>, Habiba Farrukh, Fatima Anwar, Salma Elmalaki <span class="coauth">[<sup class="eq">*</sup>Equal Contribution]</span></span>
 {:.pub-list}
 
 ## Posters
 
-- <span class="pubtitle"><a href="https://mutahar789.github.io/assets/files/peekxr.pdf">PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality</a></span> \
+- <span class="pubtitle"><a href="assets/files/peekxr.pdf">PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality</a></span> \
     <span class="authors">Chuyang Peng, <strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
     <span class="venue">ACM MobiSys, 2025</span> <span class="badge badge-award"><i class="fas fa-medal"></i>Best Poster Runner-Up</span>
 {:.pub-list}
