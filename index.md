@@ -11,7 +11,8 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 ## News
 
 <ul class="news">
-  <li><span class="date">Jun 2026</span><span>Our work on security of multi-user mixed reality was accepted to <strong>USENIX Security 2026</strong>! 🎉</span></li>
+  <li><span class="date">Aug 2026</span><span>Presented our work on security of multi-user mixed reality at <strong>USENIX Security 2026</strong></span></li>
+  <li><span class="date">July 2026</span><span>Received USENIX Student Travel Grant for <strong>USENIX Security 2026</strong></span></li>
   <li><span class="date">Apr 2026</span><span>Serving on the <strong>Artifact Evaluation Committee</strong> for IEEE S&amp;P 2026 and ACM CCS 2026.</span></li>
   <li><span class="date">Jun 2025</span><span>Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.</span></li>
   <li><span class="date">May 2025</span><span>Presented our work on privacy attitudes toward conversational AI at <strong>IEEE S&amp;P 2025</strong>.</span></li>
