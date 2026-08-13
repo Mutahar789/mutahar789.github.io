@@ -11,8 +11,8 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 ## News
 
 <ul class="news">
-  <li><span class="date">Aug 2026</span><span>Presented our work on security of multi-user mixed reality at <strong>USENIX Security 2026</strong></span></li>
-  <li><span class="date">July 2026</span><span>Received USENIX Student Travel Grant for <strong>USENIX Security 2026</strong></span></li>
+  <li><span class="date">Aug 2026</span><span>Presented our work on security of multi-user mixed reality at <strong>USENIX Security 2026</strong>.</span></li>
+  <li><span class="date">July 2026</span><span>Received <strong>USENIX Student Travel Grant</strong> for USENIX Security 2026.</span></li>
   <li><span class="date">Apr 2026</span><span>Serving on the <strong>Artifact Evaluation Committee</strong> for IEEE S&amp;P 2026 and ACM CCS 2026.</span></li>
   <li><span class="date">Jun 2025</span><span>Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.</span></li>
   <li><span class="date">May 2025</span><span>Presented our work on privacy attitudes toward conversational AI at <strong>IEEE S&amp;P 2025</strong>.</span></li>
@@ -24,7 +24,7 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 <!-- <span class="status">To Appear</span> -->
 
-- <span class="pubtitle"><a href="assets/files/multi-user_mr_sec.pdf">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</span> \
+- <span class="pubtitle"><a href="assets/files/multi-user_mr_sec.pdf">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</a></span> \
     <span class="authors"><strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
     <span class="venue">USENIX Security Symposium, 2026</span> 
 - <span class="pubtitle"><a href="assets/files/conv-ai-sp-user-perceptions.pdf">Understanding Users’ S&amp;P Attitudes Towards Conversational AI Platforms</a></span> \
