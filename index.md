@@ -21,9 +21,11 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Publications
 
-- <span class="pubtitle">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</span> \
+<!-- <span class="status">To Appear</span> -->
+
+- <span class="pubtitle"><a href="assets/files/multi-user_mr_sec.pdf">Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality</span> \
     <span class="authors"><strong>Mutahar Ali</strong>, Habiba Farrukh</span> \
-    <span class="venue">USENIX Security Symposium, 2026</span> <span class="status">To Appear</span>
+    <span class="venue">USENIX Security Symposium, 2026</span> 
 - <span class="pubtitle"><a href="assets/files/conv-ai-sp-user-perceptions.pdf">Understanding Users’ S&amp;P Attitudes Towards Conversational AI Platforms</a></span> \
     <span class="authors"><strong>Mutahar Ali</strong>, Arjun Arunasalam, Habiba Farrukh</span> \
     <span class="venue">IEEE Symposium on Security and Privacy (S&amp;P), 2025</span>
@@ -65,6 +67,7 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Awards
 
+- USENIX Security Student Travel Grant (2026)
 - Graduated LUMS with an Award of Distinction (2023)
 - Students as Co-Researchers Grant (2022)
 - Dean’s Honor List (2019-2022)
