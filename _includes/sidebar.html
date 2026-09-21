@@ -34,7 +34,7 @@
         {% endif %}
 
         {% if site.cv_link %}
-        <a href="{{ site.cv_link }}">
+        <a href="{{ site.cv_link | relative_url }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
