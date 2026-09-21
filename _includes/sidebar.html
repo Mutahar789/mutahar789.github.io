@@ -1,0 +1,68 @@
+      <header>
+        
+        {% if site.avatar %}
+        <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="avatar" /></a>
+        {% endif %}
+
+        <div class="bio">
+
+        <h1>{{ site.title }}</h1>
+
+        {% if site.position %}
+        <position>{{ site.position }}</position>
+        <br>
+        {% endif %}
+        {% if site.affiliation %}
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.email %}
+        <email>{{ site.email }}</email>
+        <br>
+        {% endif %}
+        {% if site.office %}
+        <office>Office: {{ site.office }}</office>
+        {% endif %}
+
+        <br>
+        <br>
+        <div class="social-icons">
+        {% if site.google_scholar %}
+        <a href="{{ site.google_scholar }}">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>  
+        {% endif %}
+
+        {% if site.cv_link %}
+        <a href="{{ site.cv_link }}">
+          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
+
+        {% if site.github_link %}
+        <a href="{{ site.github_link }}">
+          <i class="fab fa-github"></i>
+        </a>
+        {% endif %}
+
+        {% if site.linkedin %}
+        <a href="{{ site.linkedin }}">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+
+        {% if site.medium %}
+        <a href="{{ site.medium }}">
+          <i class="fab fa-medium"></i>
+        </a>
+        {% endif %}
+
+        {% if site.twitter %}
+        <a href="{{ site.twitter }}">
+          <i class="fab fa-twitter"></i>
+        </a>
+        {% endif %}
+        </div>
+
+        </div>
+      </header>

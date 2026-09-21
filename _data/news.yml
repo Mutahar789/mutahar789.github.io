@@ -1,0 +1,27 @@
+# Newest first. The home page shows the first few; /news shows all.
+- date: 'Sep 2026'
+  text: 'Our work on user perceptions of client modifications and anti-cheat engines in social XR got accepted at <strong>ACM CCS 2026</strong>.'
+
+- date: 'Aug 2026'
+  text: 'Our work on automated security analysis of multi-user XR clients got accepted at <strong>XR Security Workshop 2026</strong>.'
+
+- date: 'Aug 2026'
+  text: 'Presented our work on exploiting client-side authority in multi-user mixed reality at <strong>USENIX Security 2026</strong>.'
+
+- date: 'Jul 2026'
+  text: 'Received <strong>USENIX Student Travel Grant</strong> for USENIX Security 2026.'
+
+- date: 'Apr 2026'
+  text: 'Serving on the <strong>Artifact Evaluation Committee</strong> for IEEE S&amp;P 2026 and ACM CCS 2026.'
+
+- date: 'Jun 2025'
+  text: 'Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.'
+
+- date: 'May 2025'
+  text: 'Presented our work on privacy attitudes toward conversational AI at <strong>IEEE S&amp;P 2025</strong>.'
+
+- date: 'Apr 2025'
+  text: 'Our work on instant mobility for stateful applications in 5G was accepted to <strong>ACM/IEEE SEC 2025</strong>.'
+
+- date: 'Sep 2024'
+  text: 'Started my PhD at <strong>UC Irvine</strong> with the SPECT Lab.'

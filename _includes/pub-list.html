@@ -1,0 +1,30 @@
+<ul class="pub-list">
+{%- for p in include.items %}
+  <li><span class="pubtitle">{{ p.title }}</span> <br>
+    <span class="authors">{{ p.authors }}</span>
+    {%- if p.note %} <br>
+    <span class="coauth">{{ p.note }}</span>
+    {%- endif -%}
+    {%- if p.venue %} <br>
+    <span class="venue">{{ p.venue }}</span>
+    {%- endif -%}
+    {%- if p.status or p.links or p.award %} <br>
+    <span class="tags">
+      {%- if p.status %}<span class="tag tag-soon">{{ p.status }}</span>{% endif -%}
+      {%- for l in p.links -%}
+        {%- case l.type -%}
+          {%- when 'pdf' -%}{%- assign icon = 'fas fa-file-pdf' -%}{%- assign label = 'PDF' -%}
+          {%- when 'code' -%}{%- assign icon = 'fas fa-code' -%}{%- assign label = 'Code' -%}
+          {%- when 'poster' -%}{%- assign icon = 'fas fa-image' -%}{%- assign label = 'Poster' -%}
+          {%- when 'video' -%}{%- assign icon = 'fas fa-play' -%}{%- assign label = 'Video' -%}
+          {%- else -%}{%- assign icon = '' -%}{%- assign label = l.type -%}
+        {%- endcase -%}
+        {%- if l.url contains '://' -%}{%- assign href = l.url -%}{%- else -%}{%- assign href = l.url | relative_url -%}{%- endif -%}
+        <a class="tag tag-{{ l.type }}" href="{{ href }}">{% if icon != '' %}<i class="{{ icon }}"></i>{% endif %}{{ label }}</a>
+      {%- endfor -%}
+      {%- if p.award %}<span class="tag tag-award"><i class="fas fa-medal"></i>{{ p.award }}</span>{% endif -%}
+    </span>
+    {%- endif %}
+  </li>
+{%- endfor %}
+</ul>

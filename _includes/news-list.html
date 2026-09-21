@@ -1,0 +1,7 @@
+{%- assign items = include.items -%}
+{%- if include.limit -%}{%- assign items = items | slice: 0, include.limit -%}{%- endif -%}
+<ul class="news">
+{%- for item in items %}
+  <li><span class="date">{{ item.date }}</span><span>{{ item.text }}</span></li>
+{%- endfor %}
+</ul>

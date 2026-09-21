@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
+  <body>
+    <nav class="topnav topnav--minimal">
+      <div class="topnav-inner">
+        <a class="topnav-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <div class="topnav-links">
+          <a href="{{ "/" | relative_url }}"><i class="fas fa-arrow-left"></i>Home</a>
+        </div>
+      </div>
+    </nav>
+    <div class="wrapper wrapper--subpage">
+      {% include sidebar.html %}
+      <section>
+        {% if page.title %}<h2 class="page-title">{{ page.title }}</h2>{% endif %}
+        {{ content }}
+
+        <p class="more-link more-link--back"><a href="{{ "/" | relative_url }}"><i class="fas fa-arrow-left"></i>Back to home</a></p>
+      </section>
+      <footer></footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/nav.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/external-links.js" | relative_url }}"></script>
+  </body>
+</html>
