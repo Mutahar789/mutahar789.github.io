@@ -1,4 +1,7 @@
 # Newest first. The home page shows the first few; /news shows all.
+- date: "Oct 2026"
+  text: "Our work on backdoor attacks on goal-directed scanpath prediction got accepted at <strong>WACV 2027</strong>."
+  
 - date: 'Sep 2026'
   text: 'Our work on user perceptions of client modifications and anti-cheat engines in social XR got accepted at <strong>ACM CCS 2026</strong>.'
 

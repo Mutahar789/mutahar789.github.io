@@ -1,6 +1,12 @@
 # One entry per paper. `links` accepts pdf / code / poster / video, in the
 # order you want the tags to appear.
 papers:
+  - title: 'Follow My Eyes: Backdoor Attacks on Goal-Directed Scanpath Prediction'
+    authors: 'Diana Romero<sup class="eq">*</sup>, <strong>Mutahar Ali</strong><sup class="eq">*</sup>, Momin Khan<sup class="eq">*</sup>, Habiba Farrukh, Fatima Anwar, Salma Elmalaki'
+    note: '<sup class="eq">*</sup>Equal Contribution'
+    venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027'
+    status: 'To Appear'
+
   - title: 'Understanding Users’ Perceptions of Client-Side Modifications and Anti-Cheat Engines in Social XR'
     authors: 'Iman Mohammadi<sup class="eq">*</sup>, <strong>Mutahar Ali</strong><sup class="eq">*</sup>, Habiba Farrukh'
     note: '<sup class="eq">*</sup>Equal Contribution'
@@ -43,10 +49,5 @@ posters:
       - {type: pdf, url: '/assets/files/peekxr.pdf'}
       - {type: poster, url: '/assets/files/peekxr_poster.pdf'}
 
-preprints:
-  - title: 'Follow My Eyes: Backdoor Attacks on Goal-Directed Scanpath Prediction'
-    authors: 'Diana Romero<sup class="eq">*</sup>, <strong>Mutahar Ali</strong><sup class="eq">*</sup>, Momin Khan<sup class="eq">*</sup>, Habiba Farrukh, Fatima Anwar, Salma Elmalaki'
-    note: '<sup class="eq">*</sup>Equal Contribution'
-    venue: 'arXiv:2604.08766, 2026'
-    links:
-      - {type: pdf, url: '/assets/files/backdoor_scanpath.pdf'}
+# preprints:
+
