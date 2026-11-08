@@ -15,6 +15,7 @@
         {%- case l.type -%}
           {%- when 'pdf' -%}{%- assign icon = 'fas fa-file-pdf' -%}{%- assign label = 'PDF' -%}
           {%- when 'code' -%}{%- assign icon = 'fas fa-code' -%}{%- assign label = 'Code' -%}
+          {%- when 'website' -%}{%- assign icon = 'fas fa-globe' -%}{%- assign label = 'Website' -%}
           {%- when 'poster' -%}{%- assign icon = 'fas fa-image' -%}{%- assign label = 'Poster' -%}
           {%- when 'video' -%}{%- assign icon = 'fas fa-play' -%}{%- assign label = 'Video' -%}
           {%- else -%}{%- assign icon = '' -%}{%- assign label = l.type -%}

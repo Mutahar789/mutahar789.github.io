@@ -48,7 +48,9 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Awards
 
+- Best Paper Award, XR Security Workshop (2026)
 - USENIX Security Student Travel Grant (2026)
+- Best Poster Runner-Up, ACM MobiSys (2025)
 - UCI Computer Science Department Research Fellowship (2024-2025)
 - Graduated with Distinction, BS Computer Science, LUMS (2023)
 - Students as Co-Researchers Grant, LUMS (2022)

@@ -1,4 +1,7 @@
 # Newest first. The home page shows the first few; /news shows all.
+- date: 'Oct 2026'
+  text: '🏆 Our work on agentic automated security analysis in multi-user XR received the <strong>Best Paper Award</strong> at <strong>XR Security Workshop 2026</strong>.'
+
 - date: "Oct 2026"
   text: "Our work on backdoor attacks on goal-directed scanpath prediction got accepted at <strong>WACV 2027</strong>."
   
@@ -18,7 +21,7 @@
   text: 'Serving on the <strong>Artifact Evaluation Committee</strong> for IEEE S&amp;P 2026 and ACM CCS 2026.'
 
 - date: 'Jun 2025'
-  text: 'Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.'
+  text: '🏆 Our poster on eye-gaze privacy in extended reality received the <strong>Best Poster Runner-Up</strong> award at <strong>ACM MobiSys 2025</strong>.'
 
 - date: 'May 2025'
   text: 'Presented our work on privacy attitudes toward conversational AI at <strong>IEEE S&amp;P 2025</strong>.'

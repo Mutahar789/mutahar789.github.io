@@ -45,6 +45,7 @@ body { margin: 0; }
   --tag-soon-bg: rgba(90, 100, 115, 0.06);
   --tag-soon-border: rgba(90, 100, 115, 0.18);
   --tag-video-ink: #2f6fd0;
+  --tag-website-ink: #0e7490;
 
 
 
@@ -816,7 +817,7 @@ strong {
   transform: translateX(-3px);
 }
 
-/* ---- Paper tags (pdf / code / video / to appear / award) ---- */
+/* ---- Paper tags (pdf / code / website / video / to appear / award) ---- */
 .tag {
   display: inline-flex;
   align-items: center;
@@ -861,6 +862,7 @@ a.tag:hover {
 .tag-pdf,
 .tag-code,
 .tag-poster,
+.tag-website,
 .tag-video {
   color: var(--tag-chrome-ink);
   background: transparent;
@@ -882,6 +884,10 @@ a.tag:hover {
 
 .tag-video i {
   color: var(--tag-video-ink);
+}
+
+.tag-website i {
+  color: var(--tag-website-ink);
 }
 
 .tag-soon {
