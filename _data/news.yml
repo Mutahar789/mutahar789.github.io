@@ -1,15 +1,15 @@
 # Newest first. The home page shows the first few; /news shows all.
+- date: 'Nov 2026'
+  text: 'Presented our work on user perceptions of client modifications and anti-cheat engines in social XR at <strong>ACM CCS 2026</strong>.'
+
 - date: 'Oct 2026'
-  text: '🏆 Our work on agentic automated security analysis in multi-user XR received the <strong>Best Paper Award</strong> at <strong>XR Security Workshop 2026</strong>.'
+  text: '🏆 Our work on agentic automated security analysis in multi-user XR received the <strong>Best Paper Award</strong> at <strong>XR Security Workshop 2026</strong>, co-located with <strong>ACM MobiCom 2026</strong>.'
 
 - date: "Oct 2026"
   text: "Our work on backdoor attacks on goal-directed scanpath prediction got accepted at <strong>WACV 2027</strong>."
   
-- date: 'Sep 2026'
-  text: 'Our work on user perceptions of client modifications and anti-cheat engines in social XR got accepted at <strong>ACM CCS 2026</strong>.'
-
 - date: 'Aug 2026'
-  text: 'Our work on automated security analysis of multi-user XR clients got accepted at <strong>XR Security Workshop 2026</strong>.'
+  text: 'Our work on automated security analysis of multi-user XR clients got accepted at <strong>XR Security Workshop 2026</strong>, co-located with <strong>ACM MobiCom 2026</strong>.'
 
 - date: 'Aug 2026'
   text: 'Presented our work on exploiting client-side authority in multi-user mixed reality at <strong>USENIX Security 2026</strong>.'

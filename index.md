@@ -14,17 +14,27 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 <p class="more-link"><a href="{{ "/news/" | relative_url }}">See older news <i class="fas fa-arrow-right"></i></a></p>
 
-## Publications
+## Conference Publications {#publications}
 
 {% include pub-list.html items=site.data.publications.papers %}
 
+{% if site.data.publications.workshops.size > 0 %}
+## Workshop Publications
+
+{% include pub-list.html items=site.data.publications.workshops %}
+{% endif %}
+
+{% if site.data.publications.posters.size > 0 %}
 ## Posters
 
 {% include pub-list.html items=site.data.publications.posters %}
+{% endif %}
 
+{% if site.data.publications.preprints.size > 0 %}
 ## Pre-prints
 
 {% include pub-list.html items=site.data.publications.preprints %}
+{% endif %}
 
 <p class="more-link"><a href="{{ "/publications/" | relative_url }}">See all publications <i class="fas fa-arrow-right"></i></a></p>
 
@@ -48,7 +58,7 @@ Before joining UCI, I was a Research Associate in the Computer Science departmen
 
 ## Awards
 
-- Best Paper Award, XR Security Workshop (2026)
+- Best Paper Award, XR Security Workshop, co-located with ACM MobiCom (2026)
 - USENIX Security Student Travel Grant (2026)
 - Best Poster Runner-Up, ACM MobiSys (2025)
 - UCI Computer Science Department Research Fellowship (2024-2025)

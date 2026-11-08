@@ -1,3 +1,5 @@
+# Lists: papers (conference), workshops, posters, preprints. Empty or
+# missing lists are hidden on the site.
 # One entry per paper. `links` accepts pdf / code / website / poster / video,
 # in the order you want the tags to appear.
 papers:
@@ -18,15 +20,6 @@ papers:
       - {type: pdf, url: '/assets/files/client-mods-social-xr-user-perceptions.pdf'}
       - {type: code, url: 'https://doi.org/10.5281/zenodo.22748459'}
 
-  - title: 'Agentic Framework for Automated Security Analysis in Multi-User Extended Reality'
-    authors: '<strong>Mutahar Ali</strong>, Habiba Farrukh'
-    venue: 'Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems (XR Security), 2026'
-    award: 'Best Paper Award'
-    links:
-      - {type: pdf, url: '/assets/files/auto-sec-analysis-multi-user-xr.pdf'}
-      - {type: code, url: 'https://github.com/SPECT-Lab/Multi-User-XR-Security-Client-Side-Authority'}
-      - {type: poster, url: '/assets/files/auto-sec-analysis-multi-user-xr_poster.pdf'}
-
   - title: 'Relay and Betray: Exploiting Client-Side Authority in Multi-User Mixed Reality'
     authors: '<strong>Mutahar Ali</strong>, Habiba Farrukh'
     venue: 'USENIX Security Symposium, 2026'
@@ -43,12 +36,22 @@ papers:
       - {type: code, url: 'https://github.com/SPECT-Lab/Conversational-AI-SP-User-Perceptions'}
       - {type: poster, url: '/assets/files/conv-ai-sp-user-perceptions_poster.pdf'}
 
-  - title: 'Warping the Edge: Where Instant Mobility in 5G Meets Stateful Applications'
-    authors: 'Mukhtiar Ahmad, Faaiq Bilal, <strong>Mutahar Ali</strong>, Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi'
+  - title: 'Warping the Edge: Enabling Instant Mobility for Stateful Applications over 5G and Beyond'
+    authors: 'Mukhtiar Ahmad, Faaiq Bilal, <strong>Mutahar Ali</strong>, Syed Muhammad Ali Nawazish, Amir Salman, Shazer Ali, Fawad Ahmad, Zafar Ayyub Qazi'
     venue: 'ACM/IEEE Symposium on Edge Computing (SEC), 2025'
     links:
       - {type: pdf, url: '/assets/files/edgewarp.pdf'}
       - {type: code, url: 'https://github.com/stonegen/SEC-EdgeWarp'}
+
+workshops:
+  - title: 'Agentic Framework for Automated Security Analysis in Multi-User Extended Reality'
+    authors: '<strong>Mutahar Ali</strong>, Habiba Farrukh'
+    venue: 'Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems (XR Security), co-located with ACM MobiCom, 2026'
+    award: 'Best Paper Award'
+    links:
+      - {type: pdf, url: '/assets/files/auto-sec-analysis-multi-user-xr.pdf'}
+      - {type: code, url: 'https://github.com/SPECT-Lab/Multi-User-XR-Security-Client-Side-Authority'}
+      - {type: poster, url: '/assets/files/auto-sec-analysis-multi-user-xr_poster.pdf'}
 
 posters:
   - title: 'PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality'
